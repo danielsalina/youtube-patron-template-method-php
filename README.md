@@ -1,0 +1,3 @@
+# Patrón Template Method en PHP: Estructura Algoritmos Flexibles con Plantillas Personalizadas
+
+- Aprende a implementar el Patrón Template Method en PHP para estructurar algoritmos de forma flexible y reutilizable. Este patrón permite definir la estructura de un algoritmo en una clase base, mientras que las subclases pueden personalizar partes específicas del proceso. Descubre cómo utilizar plantillas para crear sistemas más organizados y fáciles de mantener, optimizando la reutilización de código sin comprometer la flexibilidad. Ideal para proyectos que requieren variaciones controladas de un algoritmo.
